@@ -10,3 +10,14 @@ Przejscie z kontroli jakosci w aerospace do pracy zdalnej jako QA Automation Eng
 - test cases
 - bug reporty
 - pierwsze testy w Pythonie
+
+## Dzien 2
+
+Pierwsze uruchomienie VS Code i Git
+
+## Dzien 3
+
+Zrozumialem:
+- czym jest QA
+- czym jest Git
+- do czego sluzy GitHub
