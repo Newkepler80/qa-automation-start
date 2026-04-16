@@ -14,3 +14,17 @@ User should be logged in successfully
 
 ## Actual result
 Error message is displayed and login fails
+
+## Title
+Login works without password
+
+## Steps to reproduce
+1. Enter valid username
+2. Leave password empty
+3. Click login
+
+## Expected result
+System should show validation error
+
+## Actual result
+User is logged in without password
