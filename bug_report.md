@@ -1,30 +1,14 @@
-# Bug Report
+# Bug Reports
 
-## Title
-Login does not work with correct credentials
+## Bug 1 - Login fails
 
-## Steps to reproduce
-1. Open login page
-2. Enter valid username
-3. Enter valid password
-4. Click login button
-
-## Expected result
-User should be logged in successfully
-
-## Actual result
-Error message is displayed and login fails
-
-## Title
-Login works without password
-
-## Steps to reproduce
-1. Enter valid username
-2. Leave password empty
+Steps:
+1. Enter correct username
+2. Enter correct password
 3. Click login
 
-## Expected result
-System should show validation error
+Expected:
+Login works
 
-## Actual result
-User is logged in without password
+Actual:
+Error appears

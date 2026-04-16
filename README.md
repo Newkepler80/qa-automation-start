@@ -1,23 +1,11 @@
-# QA Automation - start
+# QA Automation Learning
 
-To jest moje pierwsze repo do nauki QA Automation.
+This is my QA learning project.
 
-## Cel
-Przejscie z kontroli jakosci w aerospace do pracy zdalnej jako QA Automation Engineer.
-
-## Co tu bede dodawal
-- notatki do ISTQB
-- test cases
-- bug reporty
-- pierwsze testy w Pythonie
-
-## Dzien 2
-
-Pierwsze uruchomienie VS Code i Git
-
-## Dzien 3
-
-Zrozumialem:
-- czym jest QA
-- czym jest Git
-- do czego sluzy GitHub
+## What I am learning
+- ISTQB
+- Manual testing
+- Bug reports
+- Test cases
+- Python basics
+- Git & GitHub
